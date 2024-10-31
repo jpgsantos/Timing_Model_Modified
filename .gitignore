@@ -1,0 +1,4 @@
+Matlab/Data/
+Matlab/Results/**
+Matlab/Settings/**
+!Matlab/Settings/Timing_Model_Modified.m
